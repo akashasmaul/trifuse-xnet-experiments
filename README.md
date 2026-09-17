@@ -29,10 +29,6 @@ The overall experimental workflow moves from dataset preparation and model train
 
 ![TriFuse-xNet architecture](figures/Fig3_Architecture.png)
 
-A compact version of the architecture is also included:
-
-![TriFuse-xNet compact architecture](figures/Fig3_Architecture_Compact.png)
-
 The exact implementation and configuration should be taken from the notebook rather than inferred from the diagrams alone.
 
 ## Dataset
@@ -46,8 +42,6 @@ Dataset details, preprocessing, splits, and experimental configurations are docu
 Additional dataset-related figures from the original project are preserved below.
 
 ![Dataset figure 1](figures/Fig1.jpg)
-
-![Dataset figure 2](figures/Fig2.jpg)
 
 ## Cross-Dataset Validation
 
